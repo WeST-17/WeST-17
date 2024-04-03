@@ -1,10 +1,6 @@
 ### Hi there 👋
 Testing stuff out for a GitHub Portfolio ReadMe!
 
-<button class='background-color:blue'>
-  Python
-</button>
-
 <!--
 **WeST-17/WeST-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
