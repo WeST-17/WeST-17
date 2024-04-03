@@ -1,6 +1,9 @@
 ### Hi there 👋
 Testing stuff out for a GitHub Portfolio ReadMe!
 
+<img src="https://media.discordapp.net/attachments/1201751797367328849/1206813225044287518/image.png?ex=661df8e6&is=660b83e6&hm=494baeb646b0f3b7055af8a08687e35ca70f1b1ebf6577d96e7d47b0eea9e791&"
+/>
+
 <!--
 **WeST-17/WeST-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
