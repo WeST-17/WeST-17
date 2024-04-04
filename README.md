@@ -13,7 +13,7 @@ Currently working with Python, React/Next.JS, and more!
   <div align="left">
     During the day I attend Austin Community College as a Software Development/Computer Programming major. Previously, I was a Transportation Planner. I decided to pivot in my career to find different outlet for learning and creativity.
     <br><br>
-    Still dedicated to urban mobility and connectivity, and wanted to find a different way to improve and connect people and communities. I'm currently building Wo Shi Cat, a Chinese and Asian inspired apparel brand, as a web developer and partner!
+    Still dedicated to urban mobility and connectivity, and wanted to find a different way to improve and connect people and communities. I'm currently building Wo Shi Cat, a Chinese, Asian, and Cat inspired apparel brand, as a web developer and partner!
   </div>
 </div>
 
