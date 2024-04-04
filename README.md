@@ -44,16 +44,20 @@ Currently working with Python, React/Next.JS, and more!
     <img width="12" />
   </div>
 </div>
-
 <br>
+
+## Find Me Elsewhere...
 <div align="left">
-  <h3>Find Me Elsewhere...</h3>
   <a href="https://www.linkedin.com/in/wesley-tsai/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn"  />
   </a>
   <img width="12" />
   <a href="https://www.westsai.me">
     <img src="https://img.shields.io/badge/Portfolio-a8a29e?&style=for-the-badge" height="40" alt="Portfolio Website at westsai.me" />
+  </a>
+  <img width="12" />
+  <a href="https://bento.me/wes-tsai">
+    <img src="https://img.shields.io/badge/Bento-6366f1?logo=bento&logoColor=white&style=for-the-badge" height="40" alt="Portfolio Website at westsai.me" />
   </a>
 </div>
 
