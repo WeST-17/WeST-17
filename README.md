@@ -1,5 +1,5 @@
 <div align="center">
-  testing...
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Wes!)](https://git.io/typing-svg)
 </div>
 
 <!--
