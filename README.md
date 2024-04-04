@@ -7,5 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-profile-url" style="display: inline-block; background-color: #0077B5; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px;">Visit my LinkedIn</a>
+  <a href="https://www.linkedin.com/in/wesley-tsai/" target="_blank">
+    <img src="https://github.com/WeST-17/WeST-17/blob/main/FontAwesome%20Icons/linkedinBlue.svg" width="50" height="50"/>
+  </a>
 </div>
