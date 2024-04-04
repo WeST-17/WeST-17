@@ -5,9 +5,9 @@
 <div align="center">
   <h4 align="center">Hey there, I'm Wes. A software developer in training who is dedicated about building community through tech. Currently working with Python, React/Next.JS, and more!</h4>
 </div>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/wesley-tsai/" target="_blank">
+<br>
+<div align="right">
+  <a href="https://www.linkedin.com/in/wesley-tsai/">
     <img src="https://github.com/WeST-17/WeST-17/blob/main/FontAwesome%20Icons/linkedinBlue.svg" width="50" height="50"/>
   </a>
 </div>
