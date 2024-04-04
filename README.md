@@ -3,24 +3,27 @@
 </div>
 
 <div align="center">
-  <h4 align="center">Hey there, I'm Wes. A software developer in training who is dedicated about building community through tech. Currently working with Python, React/Next.JS, and more!</h4>
+  <h4 align="center">A software developer in training who is dedicated about building community through tech. 
+    <br>
+    Currently working with Python, React/Next.JS, and more!</h4>
 </div>
 
 <br>
 <div align="center">
   <h2>About Me!</h2>
-  <div>
-    I'm Wes! A software developer in training who is dedicated about building community through tech. Looking to focus on full stack development.
-  
-During the day I attend Austin Community College as a Software Development/Computer Programming major. Previously, I was a Transportation Planner. Still dedicated to urban mobility and connectivity, and wanted to find a different way to improve and connect people and communities. Currently at Warby Parker, advising people on glasses styling and vision needs.
-  
-Elsewhere, you can find me playing volleyball and/or at a local coffee or bubble tea shop! or Traveling. Eating. Etc.
+  <div align="left">
+    During the day I attend Austin Community College as a Software Development/Computer Programming major. Previously, I was a Transportation Planner. I decided to pivot in my career to find different outlet for learning and creativity.
+    <br><br>
+    Still dedicated to urban mobility and connectivity, and wanted to find a different way to improve and connect people and communities. I'm currently building Wo Shi Cat, a Chinese and Asian inspired apparel brand, as a web developer and partner!
   </div>
 </div>
 
-<br>
-<div align="right">
+<br><br>
+<div align="left">
   <a href="https://www.linkedin.com/in/wesley-tsai/">
-    <img src="https://github.com/WeST-17/WeST-17/blob/main/FontAwesome%20Icons/linkedinBlue.svg" width="50" height="50"/>
+    <img src="https://github.com/WeST-17/WeST-17/blob/main/FontAwesome%20Icons/linkedinBlue.svg" width="50" height="50" alt="LinkedIn Logo"/>
+  </a>
+  <a href="https://www.westsai.me">
+    Portfolio
   </a>
 </div>
