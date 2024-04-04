@@ -2,7 +2,9 @@
   <div href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2800&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hey%2C+I'm+Wes!" alt="Typing SVG" /></div>
 </div>
 <div align="center">
-  <img src="https://github.com/WeST-17/WeST-17/blob/main/FontAwesome%20Icons/linkedin.svg" width="50" height="50" color="black"/>
+  <a href="https://www.linkedin.com/in/wesley-tsai/" target="_blank">
+    <img src="https://github.com/WeST-17/WeST-17/blob/main/FontAwesome%20Icons/linkedin.svg" width="50" height="50"/>
+  </a>
 </div>
 
 <!--
