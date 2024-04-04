@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/wesley-tsai/" target="_blank">
-    <img src="https://github.com/WeST-17/WeST-17/blob/main/FontAwesome%20Icons/linkedin.svg" width="50" height="50"/>
+    <img src="https://github.com/WeST-17/WeST-17/blob/main/FontAwesome%20Icons/linkedinBlue.svg" width="50" height="50"/>
   </a>
 </div>
 
