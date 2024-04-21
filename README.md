@@ -59,6 +59,7 @@ Currently working with Python, React/Next.JS, and more!
   <a href="https://bento.me/wes-tsai">
     <img src="https://img.shields.io/badge/Bento-6366f1?logo=bento&logoColor=white&style=for-the-badge" height="40" alt="Bento Website at westsai.me" />
   </a>
+  <img width="12" />
   <a href="https://www.codedex.io/@17-west">
     <img src="https://img.shields.io/badge/Codedex-fcd34d?logo=&logoColor=white&style=for-the-badge" height="40" alt="Wes Codedex Profile" />
   </a>
