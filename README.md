@@ -61,7 +61,7 @@ Currently working with Python, React/Next.JS, and more!
   </a>
   <img width="12" />
   <a href="https://www.codedex.io/@17-west">
-    <img src="https://img.shields.io/badge/Codedex-fcd34d?logo=&logoColor=white&style=for-the-badge" height="40" alt="Wes Codedex Profile" />
+    <img src="https://img.shields.io/badge/Codedex-fef08a?labelColor=white&style=for-the-badge" height="40" alt="Wes Codedex Profile" />
   </a>
 </div>
 
