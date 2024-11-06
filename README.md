@@ -8,6 +8,21 @@ I'm a `Software Developer` in training who is dedicated about building community
 Currently working with Python, React/Next.JS, and more!
 <br><br>
 
+## Current Project Highlight
+<div align="left">
+  <a href="https://www.woshicat.com/">
+    <img src="https://www.woshicat.com/_next/image?url=%2Flogo%2FLogo%20Red%20Version.png&w=320&q=75" height="100" alt="WoShi Cat"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.woshicat.com/">
+    <img src="https://www.woshicat.com/_next/image?url=%2Fmedia%2Fmisc%2Fwoshicat_script2b.png&w=1024&q=75" height="100" alt="WoShi Cat"  />
+  </a>
+  <img width="12" />
+  
+</div>
+  support @ woshicat.com!
+<br><br>
+
 ## About Me!
 <div align="left">
   <div align="left">
