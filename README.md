@@ -1,6 +1,6 @@
 <img src="https://www.westsai.me/_next/image?url=%2Fprofile_pics%2Fbay_area_beach_coffee.jpg&w=828&q=75" width="170" align="left"/> 
 
-<div href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=1000&color=78716C&vCenter=true&multiline=true&repeat=false&random=false&width=635&height=115&lines=Hey%2C+I'm+Wes!;Welcome+to+my+GitHub" alt="Typing SVG" /></div>
+<div href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=1000&color=78716C&vCenter=true&multiline=true&repeat=false&random=false&width=635&height=115&lines=Hey%2C+I'm+Wes!;Welcome+to+my+GitHub+Page" alt="Typing SVG" /></div>
 <img width="12"/>
 
 I'm a `Software Developer` in training who is dedicated about building community through tech. 
