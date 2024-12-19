@@ -5,7 +5,7 @@
 
 I'm a `Software Developer` in training who is dedicated about building community through tech. 
 <br>
-Currently working with Python, React/Next.JS, and more!
+Currently working with Python, React/Next.JS, TypeScript, and more!
 <br><br>
 
 ## Current Project Highlight
