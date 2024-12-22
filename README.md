@@ -20,6 +20,7 @@ Currently working with Python, React/Next.JS, TypeScript, and more!
   <img width="12" />
   
 </div>
+  WoShi Cat E-Commerce website created with Next.js/React, TypeScript, and Tailwind CSS. Shopify was integrated to provide e-commerce capabilities.
   support @ woshicat.com!
 <br><br>
 
