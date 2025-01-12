@@ -7,7 +7,7 @@ I'm a `Software Developer` in training who is dedicated about building community
 <br>
 Currently working with Python, React/Next.JS, TypeScript, and more!
 <br><br>
-
+[![Wes' GitHub stats](https://github-readme-stats.vercel.app/api?username=WeST-17)](https://github.com/WeST-17/github-readme-stats)
 ## Current Project Highlight
 <div align="left">
   <a href="https://www.woshicat.com/">
@@ -60,7 +60,6 @@ Currently working with Python, React/Next.JS, TypeScript, and more!
     <img width="12" />
   </div>
 </div>
-[![Wes' GitHub stats](https://github-readme-stats.vercel.app/api?username=WeST-17)](https://github.com/WeST-17/github-readme-stats)
 <br>
 
 ## Find Me Elsewhere...
