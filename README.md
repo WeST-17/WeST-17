@@ -60,6 +60,7 @@ Currently working with Python, React/Next.JS, TypeScript, and more!
     <img width="12" />
   </div>
 </div>
+[![Wes' GitHub stats](https://github-readme-stats.vercel.app/api?username=WeST-17)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## Find Me Elsewhere...
