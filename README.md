@@ -7,8 +7,11 @@ I'm a `Software Developer` in training who is dedicated about building community
 <br>
 Currently working with Python, React/Next.JS, TypeScript, and more!
 <br><br>
-[![Wes' GitHub stats](https://github-readme-stats.vercel.app/api?username=WeST-17)](https://github.com/WeST-17/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeST-17)](https://github.com/WeST-17/github-readme-stats)
+<div align="center">
+<img alt="Wes' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=WeST-17&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeST-17&layout=compact&&langs_count=8"/>
+</div>
+<br><br>
 ## Current Project Highlight
 <div align="left">
   <a href="https://www.woshicat.com/">
