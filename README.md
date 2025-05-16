@@ -17,7 +17,7 @@ Currently working with Python, React/Next.JS, TypeScript, and more!
 ## Current Project Highlight
 <div align="left">
   <a href="https://www.woshicat.com/">
-    <img src="https://www.woshicat.com/_next/image?url=%2Flogo%2FLogo%20Red%20Version.png&w=320&q=75" height="100" alt="WoShi Cat"  />
+    <img src="https://github.com/WeST-17/WeST-17/blob/4e4f7578a2e3aa78cab67967489c5516a2dbcbc4/Logo%20White%20Version%20no%20margin.png" height="100" alt="WoShi Cat"  />
   </a>
   <img width="12" />
   
