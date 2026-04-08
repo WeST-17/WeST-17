@@ -1,4 +1,4 @@
-<div href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=1000&color=78716C&vCenter=true&multiline=true&repeat=false&random=false&width=635&height=115&lines=Hey%2C+I'm+Wes!;Welcome+to+my+GitHub+Page" alt="Typing SVG" /></div>
+<div href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=1000&color=78716C&vCenter=true&multiline=true&repeat=false&random=false&width=635&height=115&lines=Hey%2C+I'm+Wes!" alt="Typing SVG" /></div>
 <img width="12"/>
 
 `Technical Lead & Software Developer @ WoShi Cat, LLC`
