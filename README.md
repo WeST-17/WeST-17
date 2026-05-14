@@ -1,12 +1,14 @@
-<div href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=1000&color=78716C&vCenter=true&multiline=true&repeat=false&random=false&width=635&height=115&lines=Hey%2C+I'm+Wes!" alt="Typing SVG" /></div>
+<div href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=1000&color=78716C&vCenter=true&multiline=true&repeat=false&random=false&width=635&height=65&lines=Hey%2C+I'm+Wes!" alt="Typing SVG" /></div>
 <img width="12"/>
 
-`Technical Lead & Software Developer @ WoShi Cat, LLC`
+`Computer Science @ Oregon State University`
 <br>
-`Currently working with React/Next.JS, TypeScript, Tailwind CSS, and more!`
+`Technology Specialist & Web Developer @ WoShi Cat, LLC`
+<br>
+`Currently working with React/Next.JS, TypeScript, Tailwind CSS, Shopify, and more!`
 <br>
 
-## Current Highlight(s)
+## Project Highlist(s)
 <div align="left">
   <a href="https://www.woshicat.com/">
     <img src="https://github.com/WeST-17/WeST-17/blob/4e4f7578a2e3aa78cab67967489c5516a2dbcbc4/Logo%20White%20Version%20no%20margin.png" height="100" alt="WoShi Cat"  />
@@ -21,9 +23,9 @@
 ## About Me!
 <div align="left">
   <div align="left">
-    During the day, I'm an Optician Apprentice @ Warby Parker. After hours, I run and admin the WoShi Cat website and Shopify CMS as our Technical Lead. Previously, I was a Transportation Planner, and I decided to pivot in my career to find a different outlet for learning and creativity. You could call me a "jack of a few trades" o( ・∇・)o
+    During the day, I'm a computer science student at Oregon State University. After hours, I run and admin the WoShi Cat website and Shopify CMS as our Technology Specialist and Web Developer. I used to be an urban planner by training, and I decided to pivot in my career to find a different outlet for learning and creativity. You could call me a "jack of a few trades" o( ・∇・)o
     <br><br>
-    I'm still passionate about urban mobility and connectivity, but I wanted to find a different way to improve and connect people and communities. I'm currently building/maintaing WǒShì Cat (我是貓), a Chinese, Asian, and Cat inspired apparel brand, as a web developer and partner!
+    
   </div>
 </div>
 
@@ -70,6 +72,10 @@
   <img width="12" />
   <a href="https://linktr.ee/wes_t">
     <img src="https://img.shields.io/badge/linktree-43E55E?logo=linktree&logoColor=white&style=for-the-badge" height="40" alt="my linktree /wes_t" />
+  </a>
+  <img width="12" />
+  <a href="https://woshicat.com">
+    <img src="/Logo White Version no margin.png" height="70" alt="visit woshicat.com. The WoShi Cat logo. A red, rectagular seal with a cat on its left half and the Chinese characters for I Am on the right" />
   </a>
  
 </div>
