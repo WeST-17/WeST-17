@@ -1,11 +1,12 @@
-<div href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=1000&color=78716C&vCenter=true&multiline=true&repeat=false&random=false&width=635&height=65&lines=Hey%2C+I'm+Wes!" alt="Typing SVG" /></div>
+<div href="https://git.io/typing-svg">
+  <picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=1000&color=E0EEE0&vCenter=true&multiline=true&repeat=false&random=false&width=635&height=65&lines=Hey%2C+I'm+Wes!" alt="Typing SVG" />
+  </picture>
+</div>
 <img width="12"/>
 
-`Computer Science @ Oregon State University`
-<br>
-`Technology Specialist & Web Developer @ WoShi Cat, LLC`
-<br>
-`Currently working with React/Next.JS, TypeScript, Tailwind CSS, Shopify, and more!`
+### Computer Science @ Oregon State University
+`Web Developer for WoShi Cat, LLC`
 <br>
 
 ## Project Highlist(s)
@@ -18,6 +19,10 @@
 </div>
   WoShi Cat E-Commerce website created with Next.js/React, TypeScript, Tailwind CSS, and Node.js. The Shopify Storefront API was integrated to provide e-commerce capabilities.
   Support the team @ <a href="https://woshicat.com" target="_blank">woshicat.com!</a>
+  <br>
+  
+### ~ Web Dev Stack ~
+  Next.js | TypeScript | Tailwind CSS | Node.js | Shopify Storefront API | Klaivyo API
 <br><br>
 
 ## About Me!
@@ -74,8 +79,5 @@
     <img src="https://img.shields.io/badge/linktree-43E55E?logo=linktree&logoColor=white&style=for-the-badge" height="40" alt="my linktree /wes_t" />
   </a>
   <img width="12" />
-  <a href="https://woshicat.com">
-    <img src="/Logo White Version no margin.png" height="70" alt="visit woshicat.com. The WoShi Cat logo. A red, rectagular seal with a cat on its left half and the Chinese characters for I Am on the right" />
-  </a>
  
 </div>
