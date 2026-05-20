@@ -28,7 +28,7 @@
 ## About Me!
 <div align="left">
   <div align="left">
-    During the day, I'm a computer science student at Oregon State University. After hours, I run and admin the WoShi Cat website and Shopify CMS as our Technology Specialist and Web Developer. I used to be an urban planner by training, and I decided to pivot in my career to find a different outlet for learning and creativity. You could call me a "jack of a few trades" o( ・∇・)o
+    During the day, I'm a computer science student at Oregon State University. After hours, I run and admin the WoShi Cat website and Shopify CMS as our Technology Specialist and Web Developer. A former urban planner by training, I decided to pivot in my career and build things with code. You could call me a "jack of a few trades" o( ・∇・)o
     <br><br>
     
   </div>
