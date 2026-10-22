@@ -6,7 +6,7 @@
 <img width="12"/>
 
 ### Computer Science @ Oregon State University
-`Web Developer for WoShi Cat, LLC`
+`Freelance Web Developer for WoShi Cat, LLC`
 <br>
 
 ## Project Highlist(s)
